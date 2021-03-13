@@ -1,0 +1,512 @@
+[08-Dec-2020 00:19:59 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\www\Assignment5\signup.php on line 44
+[08-Dec-2020 01:02:31 UTC] PHP Parse error:  syntax error, unexpected 'btn' (T_STRING), expecting ';' or ',' in C:\www\Assignment5\header.php on line 18
+[08-Dec-2020 03:00:18 UTC] PHP Parse error:  syntax error, unexpected 'isset' (T_ISSET), expecting '(' in C:\www\Assignment5\header.php on line 36
+[08-Dec-2020 03:00:38 UTC] PHP Parse error:  syntax error, unexpected 'isset' (T_ISSET), expecting '(' in C:\www\Assignment5\header.php on line 36
+[08-Dec-2020 03:00:39 UTC] PHP Parse error:  syntax error, unexpected 'isset' (T_ISSET), expecting '(' in C:\www\Assignment5\header.php on line 36
+[08-Dec-2020 03:01:56 UTC] PHP Parse error:  syntax error, unexpected 'isset' (T_ISSET), expecting '(' in C:\www\Assignment5\header.php on line 35
+[08-Dec-2020 03:02:01 UTC] PHP Parse error:  syntax error, unexpected 'isset' (T_ISSET), expecting '(' in C:\www\Assignment5\header.php on line 35
+[08-Dec-2020 03:19:05 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in C:\www\Assignment5\header.php on line 34
+[08-Dec-2020 03:19:52 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\www\Assignment5\header.php on line 39
+[08-Dec-2020 05:03:16 UTC] PHP Notice:  Undefined index: background in C:\www\Assignment5\header.php on line 34
+[08-Dec-2020 05:04:00 UTC] PHP Notice:  Undefined index: background in C:\www\Assignment5\header.php on line 34
+[08-Dec-2020 05:04:03 UTC] PHP Notice:  Undefined index: background in C:\www\Assignment5\header.php on line 34
+[08-Dec-2020 05:04:04 UTC] PHP Notice:  Undefined index: background in C:\www\Assignment5\header.php on line 34
+[08-Dec-2020 05:05:18 UTC] PHP Notice:  Undefined variable: background in C:\www\Assignment5\header.php on line 39
+[08-Dec-2020 05:06:54 UTC] PHP Notice:  Undefined variable: background in C:\www\Assignment5\header.php on line 39
+[08-Dec-2020 05:06:55 UTC] PHP Notice:  Undefined variable: background in C:\www\Assignment5\header.php on line 39
+[08-Dec-2020 05:06:56 UTC] PHP Notice:  Undefined variable: background in C:\www\Assignment5\header.php on line 39
+[08-Dec-2020 05:20:05 UTC] PHP Notice:  Undefined variable: background in C:\www\Assignment5\header.php on line 39
+[08-Dec-2020 05:20:08 UTC] PHP Notice:  Undefined variable: background in C:\www\Assignment5\header.php on line 39
+[08-Dec-2020 05:28:28 UTC] PHP Notice:  Undefined variable: background in C:\www\Assignment5\header.php on line 39
+[08-Dec-2020 05:31:07 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in C:\www\Assignment5\header.php on line 34
+[08-Dec-2020 05:31:19 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in C:\www\Assignment5\header.php on line 34
+[08-Dec-2020 05:31:28 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in C:\www\Assignment5\header.php on line 35
+[08-Dec-2020 05:31:30 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in C:\www\Assignment5\header.php on line 35
+[08-Dec-2020 05:31:39 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in C:\www\Assignment5\header.php on line 35
+[08-Dec-2020 05:31:41 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in C:\www\Assignment5\header.php on line 35
+[08-Dec-2020 05:32:06 UTC] PHP Notice:  Undefined variable: background in C:\www\Assignment5\header.php on line 38
+[08-Dec-2020 05:34:29 UTC] PHP Notice:  Undefined variable: background in C:\www\Assignment5\header.php on line 38
+[08-Dec-2020 05:35:15 UTC] PHP Notice:  Undefined variable: background in C:\www\Assignment5\header.php on line 38
+[08-Dec-2020 05:35:24 UTC] PHP Notice:  Undefined variable: background in C:\www\Assignment5\header.php on line 38
+[08-Dec-2020 05:35:25 UTC] PHP Notice:  Undefined variable: background in C:\www\Assignment5\header.php on line 38
+[08-Dec-2020 05:52:02 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in C:\www\Assignment5\header.php on line 34
+[08-Dec-2020 05:52:55 UTC] PHP Notice:  Undefined variable: background in C:\www\Assignment5\header.php on line 38
+[08-Dec-2020 05:52:57 UTC] PHP Notice:  Undefined variable: background in C:\www\Assignment5\header.php on line 38
+[08-Dec-2020 05:53:46 UTC] PHP Notice:  Undefined variable: background in C:\www\Assignment5\header.php on line 38
+[08-Dec-2020 05:54:33 UTC] PHP Notice:  Undefined variable: background in C:\www\Assignment5\header.php on line 38
+[08-Dec-2020 05:54:35 UTC] PHP Notice:  Undefined variable: background in C:\www\Assignment5\header.php on line 38
+[08-Dec-2020 05:54:42 UTC] PHP Notice:  Undefined variable: background in C:\www\Assignment5\header.php on line 38
+[08-Dec-2020 06:01:14 UTC] PHP Parse error:  syntax error, unexpected 'id' (T_STRING), expecting ';' or ',' in C:\www\Assignment5\header.php on line 38
+[08-Dec-2020 06:02:00 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in C:\www\Assignment5\header.php on line 35
+[08-Dec-2020 06:12:20 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in C:\www\Assignment5\header.php on line 32
+[08-Dec-2020 06:32:58 UTC] PHP Parse error:  syntax error, unexpected ';' in C:\www\Assignment5\header.php on line 2
+[08-Dec-2020 06:33:09 UTC] PHP Warning:  Use of undefined constant verify - assumed 'verify' (this will throw an Error in a future version of PHP) in C:\www\Assignment5\header.php on line 2
+[08-Dec-2020 06:34:21 UTC] PHP Warning:  Use of undefined constant verify - assumed 'verify' (this will throw an Error in a future version of PHP) in C:\www\Assignment5\header.php on line 2
+[08-Dec-2020 06:34:33 UTC] PHP Warning:  Use of undefined constant verify - assumed 'verify' (this will throw an Error in a future version of PHP) in C:\www\Assignment5\header.php on line 2
+[08-Dec-2020 06:34:38 UTC] PHP Warning:  Use of undefined constant verify - assumed 'verify' (this will throw an Error in a future version of PHP) in C:\www\Assignment5\header.php on line 2
+[08-Dec-2020 06:36:12 UTC] PHP Parse error:  syntax error, unexpected ';' in C:\www\Assignment5\header.php on line 2
+[08-Dec-2020 06:36:29 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in C:\www\Assignment5\header.php on line 4
+[08-Dec-2020 17:32:33 UTC] PHP Notice:  Undefined variable: result in C:\www\Assignment5\edit.php on line 22
+[08-Dec-2020 17:32:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in C:\www\Assignment5\edit.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\www\Assignment5\edit.php on line 22
+[08-Dec-2020 18:01:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function loadReport() in C:\www\Assignment5\edit.php:7
+Stack trace:
+#0 {main}
+  thrown in C:\www\Assignment5\edit.php on line 7
+[08-Dec-2020 18:02:07 UTC] PHP Warning:  include_once(dbh-inc.php): failed to open stream: No such file or directory in C:\www\Assignment5\edit.php on line 7
+[08-Dec-2020 18:02:07 UTC] PHP Warning:  include_once(): Failed opening 'dbh-inc.php' for inclusion (include_path='.;C:\php\pear') in C:\www\Assignment5\edit.php on line 7
+[08-Dec-2020 18:02:07 UTC] PHP Warning:  include_once(functions-inc.php): failed to open stream: No such file or directory in C:\www\Assignment5\edit.php on line 8
+[08-Dec-2020 18:02:07 UTC] PHP Warning:  include_once(): Failed opening 'functions-inc.php' for inclusion (include_path='.;C:\php\pear') in C:\www\Assignment5\edit.php on line 8
+[08-Dec-2020 18:02:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function loadReport() in C:\www\Assignment5\edit.php:9
+Stack trace:
+#0 {main}
+  thrown in C:\www\Assignment5\edit.php on line 9
+[08-Dec-2020 19:36:18 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\www\Assignment5\edit.php on line 21
+[08-Dec-2020 19:36:43 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\www\Assignment5\includes\functions-inc.php on line 208
+[08-Dec-2020 19:37:02 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in C:\www\Assignment5\includes\functions-inc.php on line 221
+[08-Dec-2020 19:40:38 UTC] PHP Notice:  Undefined variable: row in C:\www\Assignment5\includes\functions-inc.php on line 187
+[08-Dec-2020 19:40:38 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 187
+[08-Dec-2020 19:41:12 UTC] PHP Notice:  Undefined variable: row in C:\www\Assignment5\includes\functions-inc.php on line 187
+[08-Dec-2020 19:41:12 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 187
+[08-Dec-2020 19:41:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in C:\www\Assignment5\includes\functions-inc.php:189
+Stack trace:
+#0 C:\www\Assignment5\edit.php(15): editUser(Object(mysqli), '1')
+#1 {main}
+  thrown in C:\www\Assignment5\includes\functions-inc.php on line 189
+[08-Dec-2020 19:41:58 UTC] PHP Notice:  Undefined variable: row in C:\www\Assignment5\includes\functions-inc.php on line 187
+[08-Dec-2020 19:41:58 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 187
+[08-Dec-2020 19:41:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in C:\www\Assignment5\includes\functions-inc.php:189
+Stack trace:
+#0 C:\www\Assignment5\edit.php(15): editUser(Object(mysqli), '1')
+#1 {main}
+  thrown in C:\www\Assignment5\includes\functions-inc.php on line 189
+[08-Dec-2020 19:43:11 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in C:\www\Assignment5\includes\functions-inc.php on line 223
+[08-Dec-2020 19:45:35 UTC] PHP Notice:  Undefined variable: row in C:\www\Assignment5\includes\functions-inc.php on line 187
+[08-Dec-2020 19:45:35 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 187
+[08-Dec-2020 19:46:54 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 210
+[08-Dec-2020 19:46:54 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 211
+[08-Dec-2020 19:46:54 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 212
+[08-Dec-2020 19:46:54 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 213
+[08-Dec-2020 19:46:54 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 214
+[08-Dec-2020 19:46:54 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 215
+[08-Dec-2020 19:46:54 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 216
+[08-Dec-2020 19:46:54 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 217
+[08-Dec-2020 19:48:15 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 210
+[08-Dec-2020 19:48:15 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 211
+[08-Dec-2020 19:48:15 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 212
+[08-Dec-2020 19:48:15 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 213
+[08-Dec-2020 19:48:15 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 214
+[08-Dec-2020 19:48:15 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 215
+[08-Dec-2020 19:48:15 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 216
+[08-Dec-2020 19:48:15 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 217
+[08-Dec-2020 19:48:18 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 210
+[08-Dec-2020 19:48:18 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 211
+[08-Dec-2020 19:48:18 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 212
+[08-Dec-2020 19:48:18 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 213
+[08-Dec-2020 19:48:18 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 214
+[08-Dec-2020 19:48:18 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 215
+[08-Dec-2020 19:48:18 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 216
+[08-Dec-2020 19:48:18 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 217
+[08-Dec-2020 19:49:19 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 210
+[08-Dec-2020 19:49:19 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 211
+[08-Dec-2020 19:49:19 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 212
+[08-Dec-2020 19:49:19 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 213
+[08-Dec-2020 19:49:19 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 214
+[08-Dec-2020 19:49:19 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 215
+[08-Dec-2020 19:49:19 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 216
+[08-Dec-2020 19:49:19 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 217
+[08-Dec-2020 19:53:42 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 211
+[08-Dec-2020 19:53:42 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 212
+[08-Dec-2020 19:53:42 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 213
+[08-Dec-2020 19:53:42 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 214
+[08-Dec-2020 19:53:42 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 215
+[08-Dec-2020 19:53:42 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 217
+[08-Dec-2020 19:53:42 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 218
+[08-Dec-2020 19:54:18 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 211
+[08-Dec-2020 19:54:18 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 212
+[08-Dec-2020 19:54:18 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 213
+[08-Dec-2020 19:54:18 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 214
+[08-Dec-2020 19:54:18 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 215
+[08-Dec-2020 19:54:18 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 217
+[08-Dec-2020 19:54:18 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 218
+[08-Dec-2020 19:54:44 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 211
+[08-Dec-2020 19:54:44 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 212
+[08-Dec-2020 19:54:44 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 213
+[08-Dec-2020 19:54:44 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 214
+[08-Dec-2020 19:54:44 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 215
+[08-Dec-2020 19:54:44 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 217
+[08-Dec-2020 19:54:44 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 218
+[08-Dec-2020 19:55:26 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 211
+[08-Dec-2020 19:55:26 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 212
+[08-Dec-2020 19:55:26 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 213
+[08-Dec-2020 19:55:26 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 214
+[08-Dec-2020 19:55:26 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 215
+[08-Dec-2020 19:55:26 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 217
+[08-Dec-2020 19:55:26 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 218
+[08-Dec-2020 19:56:10 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 211
+[08-Dec-2020 19:56:10 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 212
+[08-Dec-2020 19:56:10 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 213
+[08-Dec-2020 19:56:10 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 214
+[08-Dec-2020 19:56:10 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 215
+[08-Dec-2020 19:56:10 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 217
+[08-Dec-2020 19:56:10 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 218
+[08-Dec-2020 19:56:23 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 211
+[08-Dec-2020 19:56:23 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 212
+[08-Dec-2020 19:56:23 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 213
+[08-Dec-2020 19:56:23 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 214
+[08-Dec-2020 19:56:23 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 215
+[08-Dec-2020 19:56:23 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 217
+[08-Dec-2020 19:56:23 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 218
+[08-Dec-2020 19:57:42 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 211
+[08-Dec-2020 19:57:42 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 212
+[08-Dec-2020 19:57:42 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 213
+[08-Dec-2020 19:57:42 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 214
+[08-Dec-2020 19:57:42 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 215
+[08-Dec-2020 19:57:42 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 217
+[08-Dec-2020 19:57:42 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 218
+[08-Dec-2020 19:58:52 UTC] PHP Parse error:  syntax error, unexpected 'Command' (T_STRING), expecting ';' or ',' in C:\www\Assignment5\includes\functions-inc.php on line 227
+[08-Dec-2020 19:58:59 UTC] PHP Parse error:  syntax error, unexpected 'Command' (T_STRING), expecting ';' or ',' in C:\www\Assignment5\includes\functions-inc.php on line 227
+[08-Dec-2020 19:59:14 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 211
+[08-Dec-2020 19:59:14 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 212
+[08-Dec-2020 19:59:14 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 213
+[08-Dec-2020 19:59:14 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 214
+[08-Dec-2020 19:59:14 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 215
+[08-Dec-2020 19:59:14 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 217
+[08-Dec-2020 19:59:14 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 218
+[08-Dec-2020 19:59:14 UTC] PHP Notice:  Undefined variable: uid in C:\www\Assignment5\includes\functions-inc.php on line 223
+[08-Dec-2020 19:59:28 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 211
+[08-Dec-2020 19:59:28 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 212
+[08-Dec-2020 19:59:28 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 213
+[08-Dec-2020 19:59:28 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 214
+[08-Dec-2020 19:59:28 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 215
+[08-Dec-2020 19:59:28 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 217
+[08-Dec-2020 19:59:28 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 218
+[08-Dec-2020 19:59:32 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 211
+[08-Dec-2020 19:59:32 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 212
+[08-Dec-2020 19:59:32 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 213
+[08-Dec-2020 19:59:32 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 214
+[08-Dec-2020 19:59:32 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 215
+[08-Dec-2020 19:59:32 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 217
+[08-Dec-2020 19:59:32 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 218
+[08-Dec-2020 20:02:04 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 211
+[08-Dec-2020 20:02:04 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 212
+[08-Dec-2020 20:02:04 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 213
+[08-Dec-2020 20:02:04 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 214
+[08-Dec-2020 20:02:04 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 215
+[08-Dec-2020 20:02:04 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 217
+[08-Dec-2020 20:02:04 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 218
+[08-Dec-2020 20:02:07 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 211
+[08-Dec-2020 20:02:07 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 212
+[08-Dec-2020 20:02:07 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 213
+[08-Dec-2020 20:02:07 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 214
+[08-Dec-2020 20:02:07 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 215
+[08-Dec-2020 20:02:07 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 217
+[08-Dec-2020 20:02:07 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 218
+[08-Dec-2020 20:02:55 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 211
+[08-Dec-2020 20:02:55 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 212
+[08-Dec-2020 20:02:55 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 213
+[08-Dec-2020 20:02:55 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 214
+[08-Dec-2020 20:02:55 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 215
+[08-Dec-2020 20:02:55 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 217
+[08-Dec-2020 20:02:55 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 218
+[08-Dec-2020 20:02:58 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 211
+[08-Dec-2020 20:02:58 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 212
+[08-Dec-2020 20:02:58 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 213
+[08-Dec-2020 20:02:58 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 214
+[08-Dec-2020 20:02:58 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 215
+[08-Dec-2020 20:02:58 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 217
+[08-Dec-2020 20:02:58 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 218
+[08-Dec-2020 20:03:03 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 211
+[08-Dec-2020 20:03:03 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 212
+[08-Dec-2020 20:03:03 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 213
+[08-Dec-2020 20:03:03 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 214
+[08-Dec-2020 20:03:03 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 215
+[08-Dec-2020 20:03:03 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 217
+[08-Dec-2020 20:03:03 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 218
+[08-Dec-2020 20:06:41 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 211
+[08-Dec-2020 20:06:41 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 212
+[08-Dec-2020 20:06:41 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 213
+[08-Dec-2020 20:06:41 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 214
+[08-Dec-2020 20:06:41 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 215
+[08-Dec-2020 20:06:41 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 217
+[08-Dec-2020 20:06:41 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 218
+[08-Dec-2020 20:07:01 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 211
+[08-Dec-2020 20:07:01 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 212
+[08-Dec-2020 20:07:01 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 213
+[08-Dec-2020 20:07:01 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 214
+[08-Dec-2020 20:07:01 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 215
+[08-Dec-2020 20:07:01 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 217
+[08-Dec-2020 20:07:01 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 218
+[08-Dec-2020 20:10:43 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 211
+[08-Dec-2020 20:10:43 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 212
+[08-Dec-2020 20:10:43 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 213
+[08-Dec-2020 20:10:43 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 214
+[08-Dec-2020 20:10:43 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 215
+[08-Dec-2020 20:10:43 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 217
+[08-Dec-2020 20:10:43 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 218
+[08-Dec-2020 20:21:45 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 211
+[08-Dec-2020 20:21:45 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 212
+[08-Dec-2020 20:21:45 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 213
+[08-Dec-2020 20:21:45 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 214
+[08-Dec-2020 20:21:45 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 215
+[08-Dec-2020 20:21:45 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 217
+[08-Dec-2020 20:21:45 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 218
+[08-Dec-2020 20:21:55 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 211
+[08-Dec-2020 20:21:55 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 212
+[08-Dec-2020 20:21:55 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 213
+[08-Dec-2020 20:21:55 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 214
+[08-Dec-2020 20:21:55 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 215
+[08-Dec-2020 20:21:55 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 217
+[08-Dec-2020 20:21:55 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 218
+[08-Dec-2020 20:23:20 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 211
+[08-Dec-2020 20:23:20 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 212
+[08-Dec-2020 20:23:20 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 213
+[08-Dec-2020 20:23:20 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 214
+[08-Dec-2020 20:23:20 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 215
+[08-Dec-2020 20:23:20 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 217
+[08-Dec-2020 20:23:20 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 218
+[08-Dec-2020 20:26:06 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 211
+[08-Dec-2020 20:26:07 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 212
+[08-Dec-2020 20:26:07 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 213
+[08-Dec-2020 20:26:07 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 214
+[08-Dec-2020 20:26:07 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 215
+[08-Dec-2020 20:26:07 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 217
+[08-Dec-2020 20:26:07 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 218
+[08-Dec-2020 20:26:08 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 211
+[08-Dec-2020 20:26:08 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 212
+[08-Dec-2020 20:26:08 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 213
+[08-Dec-2020 20:26:08 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 214
+[08-Dec-2020 20:26:08 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 215
+[08-Dec-2020 20:26:08 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 217
+[08-Dec-2020 20:26:08 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 218
+[08-Dec-2020 20:26:10 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 211
+[08-Dec-2020 20:26:10 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 212
+[08-Dec-2020 20:26:10 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 213
+[08-Dec-2020 20:26:10 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 214
+[08-Dec-2020 20:26:10 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 215
+[08-Dec-2020 20:26:10 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 217
+[08-Dec-2020 20:26:10 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 218
+[08-Dec-2020 20:26:13 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 211
+[08-Dec-2020 20:26:13 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 212
+[08-Dec-2020 20:26:13 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 213
+[08-Dec-2020 20:26:13 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 214
+[08-Dec-2020 20:26:13 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 215
+[08-Dec-2020 20:26:13 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 217
+[08-Dec-2020 20:26:13 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 218
+[08-Dec-2020 20:26:16 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 211
+[08-Dec-2020 20:26:16 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 212
+[08-Dec-2020 20:26:16 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 213
+[08-Dec-2020 20:26:16 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 214
+[08-Dec-2020 20:26:16 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 215
+[08-Dec-2020 20:26:16 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 217
+[08-Dec-2020 20:26:16 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 218
+[08-Dec-2020 20:26:18 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 211
+[08-Dec-2020 20:26:18 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 212
+[08-Dec-2020 20:26:18 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 213
+[08-Dec-2020 20:26:18 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 214
+[08-Dec-2020 20:26:18 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 215
+[08-Dec-2020 20:26:18 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 217
+[08-Dec-2020 20:26:18 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 218
+[08-Dec-2020 20:26:19 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 211
+[08-Dec-2020 20:26:19 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 212
+[08-Dec-2020 20:26:19 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 213
+[08-Dec-2020 20:26:19 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 214
+[08-Dec-2020 20:26:19 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 215
+[08-Dec-2020 20:26:19 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 217
+[08-Dec-2020 20:26:19 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 218
+[08-Dec-2020 20:26:20 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 211
+[08-Dec-2020 20:26:20 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 212
+[08-Dec-2020 20:26:20 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 213
+[08-Dec-2020 20:26:20 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 214
+[08-Dec-2020 20:26:20 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 215
+[08-Dec-2020 20:26:20 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 217
+[08-Dec-2020 20:26:20 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 218
+[08-Dec-2020 20:26:21 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 211
+[08-Dec-2020 20:26:21 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 212
+[08-Dec-2020 20:26:21 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 213
+[08-Dec-2020 20:26:21 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 214
+[08-Dec-2020 20:26:21 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 215
+[08-Dec-2020 20:26:21 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 217
+[08-Dec-2020 20:26:21 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 218
+[08-Dec-2020 20:26:21 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 211
+[08-Dec-2020 20:26:21 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 212
+[08-Dec-2020 20:26:21 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 213
+[08-Dec-2020 20:26:21 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 214
+[08-Dec-2020 20:26:21 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 215
+[08-Dec-2020 20:26:21 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 217
+[08-Dec-2020 20:26:21 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 218
+[08-Dec-2020 20:26:22 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 211
+[08-Dec-2020 20:26:22 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 212
+[08-Dec-2020 20:26:22 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 213
+[08-Dec-2020 20:26:22 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 214
+[08-Dec-2020 20:26:22 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 215
+[08-Dec-2020 20:26:22 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 217
+[08-Dec-2020 20:26:22 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 218
+[08-Dec-2020 20:26:22 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 211
+[08-Dec-2020 20:26:22 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 212
+[08-Dec-2020 20:26:22 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 213
+[08-Dec-2020 20:26:22 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 214
+[08-Dec-2020 20:26:22 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 215
+[08-Dec-2020 20:26:22 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 217
+[08-Dec-2020 20:26:22 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 218
+[08-Dec-2020 20:28:28 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 211
+[08-Dec-2020 20:28:29 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 212
+[08-Dec-2020 20:28:29 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 213
+[08-Dec-2020 20:28:29 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 214
+[08-Dec-2020 20:28:29 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 215
+[08-Dec-2020 20:28:29 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 217
+[08-Dec-2020 20:28:29 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 218
+[08-Dec-2020 20:28:53 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 211
+[08-Dec-2020 20:28:53 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 212
+[08-Dec-2020 20:28:53 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 213
+[08-Dec-2020 20:28:53 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 214
+[08-Dec-2020 20:28:53 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 215
+[08-Dec-2020 20:28:53 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 217
+[08-Dec-2020 20:28:53 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 218
+[08-Dec-2020 20:29:17 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 211
+[08-Dec-2020 20:29:18 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 212
+[08-Dec-2020 20:29:18 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 213
+[08-Dec-2020 20:29:18 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 214
+[08-Dec-2020 20:29:18 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 215
+[08-Dec-2020 20:29:18 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 217
+[08-Dec-2020 20:29:18 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 218
+[08-Dec-2020 20:30:31 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 211
+[08-Dec-2020 20:30:31 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 212
+[08-Dec-2020 20:30:31 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 213
+[08-Dec-2020 20:30:31 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 214
+[08-Dec-2020 20:30:31 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 215
+[08-Dec-2020 20:30:31 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 217
+[08-Dec-2020 20:30:31 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 218
+[08-Dec-2020 20:31:13 UTC] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in C:\www\Assignment5\includes\functions-inc.php:189
+Stack trace:
+#0 C:\www\Assignment5\edit.php(12): editUser(Object(mysqli), 'asd')
+#1 {main}
+  thrown in C:\www\Assignment5\includes\functions-inc.php on line 189
+[08-Dec-2020 20:33:07 UTC] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in C:\www\Assignment5\includes\functions-inc.php:189
+Stack trace:
+#0 C:\www\Assignment5\edit.php(12): editUser(Object(mysqli), '1')
+#1 {main}
+  thrown in C:\www\Assignment5\includes\functions-inc.php on line 189
+[08-Dec-2020 20:34:23 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 211
+[08-Dec-2020 20:34:23 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 212
+[08-Dec-2020 20:34:23 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 213
+[08-Dec-2020 20:34:23 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 214
+[08-Dec-2020 20:34:23 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 215
+[08-Dec-2020 20:34:23 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 217
+[08-Dec-2020 20:34:23 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 218
+[08-Dec-2020 20:36:06 UTC] PHP Parse error:  syntax error, unexpected 'background' (T_STRING), expecting ';' or ',' in C:\www\Assignment5\includes\functions-inc.php on line 214
+[08-Dec-2020 20:36:51 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 211
+[08-Dec-2020 20:36:51 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 212
+[08-Dec-2020 20:36:52 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 213
+[08-Dec-2020 20:36:52 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 221
+[08-Dec-2020 20:36:52 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 223
+[08-Dec-2020 20:36:52 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 224
+[08-Dec-2020 20:39:36 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 211
+[08-Dec-2020 20:39:36 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 212
+[08-Dec-2020 20:39:36 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 213
+[08-Dec-2020 20:39:36 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 221
+[08-Dec-2020 20:39:36 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 223
+[08-Dec-2020 20:39:36 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 224
+[08-Dec-2020 20:40:55 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 211
+[08-Dec-2020 20:40:55 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 212
+[08-Dec-2020 20:40:55 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 213
+[08-Dec-2020 20:40:55 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 221
+[08-Dec-2020 20:40:55 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 223
+[08-Dec-2020 20:40:55 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 224
+[08-Dec-2020 20:41:14 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 211
+[08-Dec-2020 20:41:14 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 212
+[08-Dec-2020 20:41:14 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 213
+[08-Dec-2020 20:41:14 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 221
+[08-Dec-2020 20:41:14 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 223
+[08-Dec-2020 20:41:14 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 224
+[08-Dec-2020 20:41:34 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 211
+[08-Dec-2020 20:41:34 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 212
+[08-Dec-2020 20:41:34 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 213
+[08-Dec-2020 20:41:34 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 221
+[08-Dec-2020 20:41:34 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 223
+[08-Dec-2020 20:41:34 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 224
+[08-Dec-2020 20:42:15 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 211
+[08-Dec-2020 20:42:15 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 212
+[08-Dec-2020 20:42:15 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 213
+[08-Dec-2020 20:42:15 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 221
+[08-Dec-2020 20:42:15 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 223
+[08-Dec-2020 20:42:15 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 224
+[08-Dec-2020 20:42:17 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 211
+[08-Dec-2020 20:42:17 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 212
+[08-Dec-2020 20:42:17 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 213
+[08-Dec-2020 20:42:17 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 221
+[08-Dec-2020 20:42:17 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 223
+[08-Dec-2020 20:42:17 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 224
+[08-Dec-2020 20:42:19 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 211
+[08-Dec-2020 20:42:19 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 212
+[08-Dec-2020 20:42:19 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 213
+[08-Dec-2020 20:42:19 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 221
+[08-Dec-2020 20:42:19 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 223
+[08-Dec-2020 20:42:19 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 224
+[08-Dec-2020 20:42:20 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 211
+[08-Dec-2020 20:42:20 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 212
+[08-Dec-2020 20:42:20 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 213
+[08-Dec-2020 20:42:20 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 221
+[08-Dec-2020 20:42:20 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 223
+[08-Dec-2020 20:42:20 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 224
+[08-Dec-2020 20:42:21 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 211
+[08-Dec-2020 20:42:21 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 212
+[08-Dec-2020 20:42:21 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 213
+[08-Dec-2020 20:42:21 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 221
+[08-Dec-2020 20:42:21 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 223
+[08-Dec-2020 20:42:21 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 224
+[08-Dec-2020 20:42:21 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 211
+[08-Dec-2020 20:42:21 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 212
+[08-Dec-2020 20:42:21 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 213
+[08-Dec-2020 20:42:21 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 221
+[08-Dec-2020 20:42:21 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 223
+[08-Dec-2020 20:42:21 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 224
+[08-Dec-2020 20:44:36 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 211
+[08-Dec-2020 20:44:36 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 212
+[08-Dec-2020 20:44:36 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 213
+[08-Dec-2020 20:44:36 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 221
+[08-Dec-2020 20:44:36 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 222
+[08-Dec-2020 20:44:36 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 223
+[08-Dec-2020 20:44:36 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\includes\functions-inc.php on line 224
+[08-Dec-2020 21:15:21 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\www\Assignment5\edit.php on line 28
+[08-Dec-2020 21:23:51 UTC] PHP Notice:  Undefined variable: uId in C:\www\Assignment5\edit.php on line 19
+[08-Dec-2020 21:23:54 UTC] PHP Notice:  Undefined variable: uId in C:\www\Assignment5\edit.php on line 19
+[08-Dec-2020 22:02:04 UTC] PHP Notice:  Undefined index: background in C:\www\Assignment5\header.php on line 44
+[08-Dec-2020 22:02:25 UTC] PHP Notice:  Undefined index: background in C:\www\Assignment5\header.php on line 44
+[08-Dec-2020 22:02:30 UTC] PHP Notice:  Undefined index: background in C:\www\Assignment5\header.php on line 44
+[08-Dec-2020 22:02:47 UTC] PHP Notice:  Undefined index: background in C:\www\Assignment5\header.php on line 44
+[08-Dec-2020 22:02:50 UTC] PHP Notice:  Undefined index: background in C:\www\Assignment5\header.php on line 44
+[08-Dec-2020 22:02:54 UTC] PHP Notice:  Undefined index: background in C:\www\Assignment5\header.php on line 44
+[08-Dec-2020 22:03:00 UTC] PHP Notice:  Undefined index: background in C:\www\Assignment5\header.php on line 44
+[08-Dec-2020 22:06:24 UTC] PHP Notice:  Undefined index: background in C:\www\Assignment5\header.php on line 44
+[08-Dec-2020 22:14:49 UTC] PHP Parse error:  syntax error, unexpected ';' in C:\www\Assignment5\edit.php on line 8
+[08-Dec-2020 22:15:03 UTC] PHP Parse error:  syntax error, unexpected ';' in C:\www\Assignment5\edit.php on line 8
+[08-Dec-2020 22:15:31 UTC] PHP Notice:  Undefined index: uId in C:\www\Assignment5\edit.php on line 7
+[08-Dec-2020 22:15:35 UTC] PHP Notice:  Undefined index: uId in C:\www\Assignment5\edit.php on line 7
+[08-Dec-2020 22:17:04 UTC] PHP Notice:  Undefined index: uId in C:\www\Assignment5\edit.php on line 7
+[08-Dec-2020 22:17:16 UTC] PHP Notice:  Undefined index: uId in C:\www\Assignment5\edit.php on line 7
+[08-Dec-2020 22:17:22 UTC] PHP Notice:  Undefined index: uId in C:\www\Assignment5\edit.php on line 7
+[08-Dec-2020 22:26:31 UTC] PHP Notice:  Undefined variable: _SESSION in C:\www\Assignment5\edit.php on line 2
+[08-Dec-2020 22:26:31 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\edit.php on line 2
+[08-Dec-2020 22:26:33 UTC] PHP Notice:  Undefined variable: _SESSION in C:\www\Assignment5\edit.php on line 2
+[08-Dec-2020 22:26:33 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\edit.php on line 2
+[08-Dec-2020 22:26:47 UTC] PHP Notice:  Undefined variable: _SESSION in C:\www\Assignment5\edit.php on line 2
+[08-Dec-2020 22:26:47 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\edit.php on line 2
+[08-Dec-2020 22:27:40 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in C:\www\Assignment5\header.php on line 2
+[08-Dec-2020 22:34:04 UTC] PHP Parse error:  syntax error, unexpected 'exit' (T_EXIT), expecting ';' or ',' in C:\www\Assignment5\edit.php on line 9
+[08-Dec-2020 22:39:24 UTC] PHP Notice:  Undefined variable: _SESSION in C:\www\Assignment5\edit.php on line 6
+[08-Dec-2020 22:39:24 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\www\Assignment5\edit.php on line 6
+[08-Dec-2020 22:48:35 UTC] PHP Notice:  Undefined index: userUid in C:\www\Assignment5\edit.php on line 6
+[08-Dec-2020 22:55:42 UTC] PHP Notice:  Undefined index: userUid in C:\www\Assignment5\edit.php on line 6
+[09-Dec-2020 05:19:00 UTC] PHP Notice:  Undefined index: userUid in C:\www\Assignment5\edit.php on line 6
+[09-Dec-2020 19:42:35 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in C:\www\Assignment5\header.php on line 16
+[09-Dec-2020 21:31:17 UTC] PHP Notice:  Undefined index: error in C:\www\Assignment5\profile.php on line 22
+[09-Dec-2020 22:02:04 UTC] PHP Notice:  Undefined variable: stmt in C:\www\Assignment5\profile.php on line 31
+[09-Dec-2020 22:02:04 UTC] PHP Warning:  mysqli_stmt_error() expects parameter 1 to be mysqli_stmt, null given in C:\www\Assignment5\profile.php on line 31
+[09-Dec-2020 22:02:18 UTC] PHP Notice:  Undefined variable: stmt in C:\www\Assignment5\profile.php on line 31
+[09-Dec-2020 22:02:18 UTC] PHP Warning:  mysqli_stmt_error() expects parameter 1 to be mysqli_stmt, null given in C:\www\Assignment5\profile.php on line 31
+[09-Dec-2020 22:14:27 UTC] PHP Notice:  Undefined index: userUid in C:\www\Assignment5\edit.php on line 6
+[09-Dec-2020 22:56:19 UTC] PHP Notice:  Undefined index: userUid in C:\www\Assignment5\edit.php on line 6
+[12-Dec-2020 02:59:43 UTC] PHP Notice:  Undefined index: userUid in C:\www\Assignment5\edit.php on line 6
