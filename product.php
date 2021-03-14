@@ -61,12 +61,12 @@ include ("partials/header.php");
 
 
 
-						<div class="block2-pic hov-img0" style='width:200px;height:350px;overflow:hidden;border:#e5e5e5e5 black solid; border-radius:20px;box-shadow:5px 7px #e5e5e5e5;'>
+						<div class="block2-pic hov-img0" style='width:100%; max-width:350px; max-height:400px; overflow:hidden;border:#e5e5e5e5 black solid; border-radius:20px;box-shadow:5px 7px #e5e5e5e5;'>
 
 						<img src="upload/<?php echo $final['picture'] ?>" alt="No FIle" style="">
 
 							<a href="product-detail.php?details_id=<?php echo $final['id']?>" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04">
-								Quick View
+								View
 							</a>
 						</div>
 

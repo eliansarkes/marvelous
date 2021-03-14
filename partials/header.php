@@ -18,7 +18,7 @@ include ("connect.php");
 					<div class="right-top-bar flex-w h-full">
 						
 
-						<a href="signup.php" class="flex-c-m trans-04 p-lr-25">
+						<a href="myaccount.php" class="flex-c-m trans-04 p-lr-25">
 							My Account
 						</a>
 
@@ -124,7 +124,7 @@ include ("connect.php");
 							Help & FAQs
 						</a>
 
-						<a href="#" class="flex-c-m p-lr-10 trans-04">
+						<a href="myaccount.php" class="flex-c-m p-lr-10 trans-04">
 							My Account
 						</a>
 

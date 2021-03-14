@@ -1,4 +1,33 @@
-#btn {
+
+/*------------------------------------------------------------------
+[LAYOUT]
+
+* body
+  + Header / header
+  + Page Content / .page-content .name-page
+        + Section Layouts / section .name-section
+        ...
+  + Footer / footer
+
+-------------------------------------------------------------------*/
+/*------------------------------------------------------------------
+[COLOR CODES]
+
+# Text Color      :  
+# Primary Color 01:  
+# Primary Color 02:   
+# Primary Color 03:  
+
+------------------------------------------------------------------*/
+/*------------------------------------------------------------------
+[TYPOGRAPHY]
+
+Body            : 16px/1.6 '', Arial, sans-serif;
+Title           : 18px/1.6 '', Arial, sans-serif;
+Paragrap        : 18px/1.6 '', Arial, sans-serif;
+Input, textarea : 14px/1.6 '', Arial, sans-serif;
+-------------------------------------------------------------------*/
+.myaccount-submit {
   background-color:gray;
   color: white;
   padding: 7px 15px;
@@ -37,8 +66,6 @@
 }
 
 #login {
-  background-image: url("../img/");
-  background-color:white;
   text-align:center;
   border-style:solid;
   border-color:black;
@@ -57,44 +84,6 @@ input[type=text]:focus {
 input [type=password]:focus {
   background-color: lightblue;
 }
-
-
-/*------------------------------------------------------------------
-Project:  
-Version:  
-Last change:  
-Assigned to:  Le Xuan Bach
-Primary use:  Company
--------------------------------------------------------------------*/
-/*------------------------------------------------------------------
-[LAYOUT]
-
-* body
-  + Header / header
-  + Page Content / .page-content .name-page
-        + Section Layouts / section .name-section
-        ...
-  + Footer / footer
-
--------------------------------------------------------------------*/
-/*------------------------------------------------------------------
-[COLOR CODES]
-
-# Text Color      :  
-# Primary Color 01:  
-# Primary Color 02:   
-# Primary Color 03:  
-
-------------------------------------------------------------------*/
-/*------------------------------------------------------------------
-[TYPOGRAPHY]
-
-Body            : 16px/1.6 '', Arial, sans-serif;
-Title           : 18px/1.6 '', Arial, sans-serif;
-Paragrap        : 18px/1.6 '', Arial, sans-serif;
-Input, textarea : 14px/1.6 '', Arial, sans-serif;
--------------------------------------------------------------------*/
-
 
 
 /*//////////////////////////////////////////////////////////////////
@@ -2340,7 +2329,9 @@ input.num-product::-webkit-inner-spin-button {
   font-size: 16px;
   line-height: 1.6;
 }
-
+.account-submit {
+  background-color:black; color:white; padding:10px; border-radius:7px;
+}
 .mtext-105 {
   font-family: Poppins-Regular;
   font-size: 24px;
